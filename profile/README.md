@@ -1,18 +1,7 @@
 
-<center>
+
 <img width="25%" src="https://web.getmonero.org/press-kit/symbols/monero-symbol-480.png" alt="Monero-Logo">
-<br>
-<img width="5%" src="https://img.icons8.com/color/512/amazon.png" alt="Monero-Logo">
-<img width="5%" src="https://img.icons8.com/color/512/ebay.png" alt="Monero-Logo">
-<img width="5%" src="https://img.icons8.com/color/512/walmart.png" alt="Monero-Logo">
-<img width="5%" src="https://www.svgrepo.com/show/331497/newegg.svg" alt="Monero-Logo">
-<img width="5%" src="https://img.icons8.com/color/512/steam.png" alt="Monero-Logo">
-<img width="5%" src="https://www.svgrepo.com/show/303267/etsy-logo.svg" alt="Monero-Logo">
-<img width="5%" src="https://www.svgrepo.com/show/25162/apple.svg" alt="Monero-Logo">
-<img width="5%" src="https://img.icons8.com/color/512/aliexpress.png" alt="Monero-Logo">
-<img width="5%" src="https://img.icons8.com/fluency/512/zalando.png" alt="Monero-Logo">
-<img width="5%" src="https://img.icons8.com/fluency/512/facebook.png" alt="Monero-Logo">
-</center>
+
 
 # [Monero.Shopping](https://monero.shopping) - Spend Monero anywhere!
 
